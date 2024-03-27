@@ -1,4 +1,4 @@
-package com.cignis.kocker.commands
+package com.rowdaboat.kocker.commands
 
 fun range(from: UShort, to: UShort) = PortRange(from, to)
 

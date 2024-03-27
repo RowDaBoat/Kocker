@@ -1,4 +1,4 @@
-package com.cignis.kocker.commands
+package com.rowdaboat.kocker.commands
 
 enum class Protocol { TCP, UDP, SCTP }
 
