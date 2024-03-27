@@ -6,10 +6,9 @@ plugins {
 
 val groupName = "com.rowdaboat"
 val artifactName = "kocker"
-val libVersion = "1.0.0"
 
 group = groupName
-version = libVersion
+version = "1.0.0-SNAPSHOT"
 
 repositories {
     mavenCentral()
